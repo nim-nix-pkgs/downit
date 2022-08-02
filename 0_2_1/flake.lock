@@ -37,22 +37,22 @@
       "inputs": {
         "flakeNimbleLib": "flakeNimbleLib",
         "nixpkgs": "nixpkgs",
-        "src-downit-main": "src-downit-main"
+        "src-downit-0_2_1": "src-downit-0_2_1"
       }
     },
-    "src-downit-main": {
+    "src-downit-0_2_1": {
       "flake": false,
       "locked": {
-        "lastModified": 1658694981,
-        "narHash": "sha256-7rLtBdYVpCY23bt+/OiwUHtxbY+V1Bll0bX/C0L36oc=",
+        "lastModified": 1659052677,
+        "narHash": "sha256-YUxGkj4HbocHPEsoOrmQizQlkcQGEwIOHxDLhls/HfY=",
         "owner": "Patitotective",
         "repo": "downit",
-        "rev": "a9d82ec2dbc08eac2f79a042b7d29d3fe21bb5dc",
+        "rev": "e9cc2f3f64ea27f51067f9e1eb507d1b4968f666",
         "type": "github"
       },
       "original": {
         "owner": "Patitotective",
-        "ref": "refs/heads/main",
+        "ref": "refs/tags/0.2.1",
         "repo": "downit",
         "type": "github"
       }
