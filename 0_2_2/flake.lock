@@ -37,10 +37,10 @@
       "inputs": {
         "flakeNimbleLib": "flakeNimbleLib",
         "nixpkgs": "nixpkgs",
-        "src-downit-main": "src-downit-main"
+        "src-downit-0_2_2": "src-downit-0_2_2"
       }
     },
-    "src-downit-main": {
+    "src-downit-0_2_2": {
       "flake": false,
       "locked": {
         "lastModified": 1661374390,
@@ -52,7 +52,7 @@
       },
       "original": {
         "owner": "Patitotective",
-        "ref": "refs/heads/main",
+        "ref": "refs/tags/0.2.2",
         "repo": "downit",
         "type": "github"
       }
